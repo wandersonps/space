@@ -38,3 +38,5 @@ function teste(){
 function teste2(){
   console.log("Teste 2");
 }
+
+teste email private
